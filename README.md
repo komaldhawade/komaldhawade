@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komaldhawade&label=Profile%20views&color=0e75b6&style=flat" alt="komaldhawade" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=komaldhawade" alt="komaldhawade" /></a> </p>
-
 - 🔭 I’m currently working on **Profit based products recommendation system for seller zone**
 
 - 🌱 I’m currently learning **AngularJS**
